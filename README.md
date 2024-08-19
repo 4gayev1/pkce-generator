@@ -6,4 +6,4 @@ it will return: {
   "codeChallenge": "tdE6bLk2rgG053xdK_1d_ZC964pyU4JOhhU-od-PID0"
 }
 
-You can use codeVerifier to verify codeChallenge in your projects
+You can use hash codeVerifier with sha256 to verify codeChallenge.
